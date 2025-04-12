@@ -14,7 +14,10 @@ Ejecute los siguientes comandos en el terminal:
 
 ```bash
 python3 -m venv .venv
+#En mi maquina corrio con
+py -m venv .venv
 .venv\Scripts\activate
+cd..
 setup
 ```
 
